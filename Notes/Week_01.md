@@ -18,3 +18,9 @@
 + Scan QR Code or use phone camera to identify the students current location within the university.
 + Students can be prompted on what room they are looking for.
 + Augmented Reality can display their live location and direct them through the university with arrows.
+
+# Software
++ [ARKit](https://developer.apple.com/augmented-reality/) or [ARCore](https://developers.google.com/ar).
+
+# Presentation
++ [Week 01](https://karina-rodriguez.github.io/2023-introduction/index.html)
