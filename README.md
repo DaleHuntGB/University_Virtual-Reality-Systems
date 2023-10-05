@@ -4,6 +4,10 @@
 
 - 13th January 2024
 
+# Project Details
+
+- [Report Requirements](Notes/Report_Requirements.md)
+
 ## Notes
 
 - [Week 1](Notes/Week_01.md): 04 October / 05 October 2023
