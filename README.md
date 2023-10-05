@@ -8,6 +8,7 @@
 
 - [Report Requirements](Notes/Report_Requirements.md)
 - [Source Code](https://github.com/DaleHuntGB/CI628_AttendyV2)
+- [Research](Notes/Research.md)
 
 ## Notes
 
