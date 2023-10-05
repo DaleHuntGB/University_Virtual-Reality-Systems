@@ -2,7 +2,7 @@
 
 ## Notes
 
-- [Week 1](Notes/Week_01.md)
+- [Week 1](Notes/Week_01.md): 04 October / 05 October 2023
 
 ## Assessment Brief
 
