@@ -1,6 +1,6 @@
 # Project
 + Group Project.
-+ Create a Mixed Reality System - [Assessment Brief](./Assessment.pdf)
++ Create a Mixed Reality System - [Assessment Brief](University_VirtualRealitySystems/Assessment.pdf)
 
 # Project Group
 + Beck Farrington-Wheeler. [GitHub](https://github.com/BeckFW)
