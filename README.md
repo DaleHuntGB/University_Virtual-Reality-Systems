@@ -2,10 +2,10 @@
 
 ## Notes
 
-+ [Week 1](Notes/Week_01.md)
+- [Week 1](Notes/Week_01.md)
 
 ## Assessment Brief
 
-+ [Assessment Brief](Assessment.pdf)
+- [Assessment Brief](Assessment.pdf)
 
 ### Created & Maintained by Dale Hunt.
