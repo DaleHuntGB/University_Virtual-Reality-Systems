@@ -1,5 +1,9 @@
 # CI628: Virtual Reality Systems
 
+## Project Deadline
+
+- 13th January 2024
+
 ## Notes
 
 - [Week 1](Notes/Week_01.md): 04 October / 05 October 2023
