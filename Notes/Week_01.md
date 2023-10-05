@@ -1,9 +1,9 @@
 # Project
 + Group Project.
-+ Create a Mixed Reality System - [Assessment Brief](Assessment.pdf)
++ Create a Mixed Reality System - [Assessment Brief](./Assessment.pdf)
 
 # Project Group
-+ Beck Farrington-Wheeler [GitHub](https://github.com/BeckFW)
++ Beck Farrington-Wheeler. [GitHub](https://github.com/BeckFW)
 + Artemi Sementsenko. [GitHub](https://github.com/artemijsem)
 + Dale Hunt. [GitHub](https://github.com/DaleHuntGB)
 
