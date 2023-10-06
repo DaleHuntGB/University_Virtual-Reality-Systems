@@ -14,6 +14,7 @@ DH Commits:
 - Removed some unneeded HTML, CSS, JavaScript.
 - Fixed Broken Camera.
 - Fixed Back Camera being inverted.
+- Added Border Overlay To Camera.
 
 # Project Idea
 

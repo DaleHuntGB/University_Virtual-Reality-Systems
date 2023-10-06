@@ -10,6 +10,7 @@
 - [Attendy: Navigation](Notes/AttendyV2.md)
 - [Attendy: Navigation - ChangeLog](Notes/AttendyV2.md#changelog)
 - [Attendy: Navigation - Source Code](https://github.com/BeckFW/Attendy_AttendanceTracker/tree/main/Attendy_Navigation)
+- [Research](Notes/Research.md)
 
 ## Notes
 
