@@ -20,6 +20,7 @@ DH Commits:
 - Added Three.js Support From AR.js.
 - Added Attendy Logo and Background Overlay to Camera.
 - Added Rounded Borders to Camera.
+- Added Back Button to Camera.
 
 # Project Idea
 
