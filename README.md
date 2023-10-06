@@ -7,8 +7,9 @@
 # Project Details
 
 - [Report Requirements](Notes/Report_Requirements.md)
-- [Source Code](https://github.com/DaleHuntGB/CI628_AttendyV2)
-- [Research](Notes/Research.md)
+- [Attendy: Navigation](Notes/AttendyV2.md)
+- [Attendy: Navigation - ChangeLog](Notes/AttendyV2.md#changelog)
+- [Attendy: Navigation - Source Code](https://github.com/BeckFW/Attendy_AttendanceTracker/tree/main/Attendy_Navigation)
 
 ## Notes
 
