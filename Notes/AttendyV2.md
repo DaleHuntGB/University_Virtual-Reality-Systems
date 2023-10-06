@@ -18,6 +18,7 @@ DH Commits:
 - Added AFrame.
 - Added AR.js.
 - Added Three.js Support From AR.js.
+- Added Attendy Logo and Background Overlay to Camera.
 
 # Project Idea
 
