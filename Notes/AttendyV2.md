@@ -15,6 +15,9 @@ DH Commits:
 - Fixed Broken Camera.
 - Fixed Back Camera being inverted.
 - Added Border Overlay To Camera.
+- Added AFrame.
+- Added AR.js.
+- Added Three.js Support From AR.js.
 
 # Project Idea
 
