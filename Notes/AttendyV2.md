@@ -25,3 +25,10 @@ DH Commits:
 # Project Idea
 
 - Create an AR Overlay on existing navigation boards to help students identify which floor they should be on.
+
+# Project Plan
+
+- Use Image Recognition to identify the navigation boards.
+- Draw information on these navigation boards, using AR to display your lessons from your timetable.
+  - Currently, information will be manually structured by the student.
+- As a fallback, information will be based on the rooms that are currently on those floors.
