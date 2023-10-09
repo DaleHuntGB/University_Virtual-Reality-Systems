@@ -22,6 +22,10 @@ DH Commits:
 - Added Rounded Borders to Camera.
 - Added Back Button to Camera.
 
+BFW Commits:
+
+- [Pattern Integration](https://github.com/BeckFW/Attendy_AttendanceTracker/commit/758d6c940448e3fe05836988d69a1ece3479a96f)
+
 # Project Idea
 
 - Create an AR Overlay on existing navigation boards to help students identify which floor they should be on.
@@ -38,3 +42,4 @@ DH Commits:
 - [x] Implement Camera Access From Browser.
 - [x] Implement AR.js and Three.js.
 - [x] Implement AR.js Image Recognition.
+- [x] Implement AR.js Image Recognition using Patterns instead of Markers.
