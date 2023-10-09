@@ -32,3 +32,9 @@ DH Commits:
 - Draw information on these navigation boards, using AR to display your lessons from your timetable.
   - Currently, information will be manually structured by the student.
 - As a fallback, information will be based on the rooms that are currently on those floors.
+
+# Project Progress
+
+- [x] Implement Camera Access From Browser.
+- [x] Implement AR.js and Three.js.
+- [x] Implement AR.js Image Recognition.
