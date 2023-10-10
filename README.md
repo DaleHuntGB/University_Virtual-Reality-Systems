@@ -9,7 +9,7 @@
 - [Report Requirements](Notes/Report_Requirements.md)
 - [Attendy: Navigation](Notes/AttendyV2.md)
 - [Attendy: Navigation - ChangeLog](Notes/AttendyV2.md#changelog)
-- [Attendy: Navigation - Source Code](https://github.com/BeckFW/Attendy_AttendanceTracker/tree/main/Attendy_Navigation)
+- [Attendy: Rebuild - Source Code](https://github.com/DaleHuntGB/Attendy_Rebuild)
 - [Research](Notes/Research.md)
 
 ## Notes
