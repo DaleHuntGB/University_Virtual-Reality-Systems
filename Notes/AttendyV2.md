@@ -25,6 +25,7 @@ DH Commits:
 BFW Commits:
 
 - [Pattern Integration](https://github.com/BeckFW/Attendy_AttendanceTracker/commit/758d6c940448e3fe05836988d69a1ece3479a96f)
+- [HTML Components Implementation](https://github.com/BeckFW/Attendy_AttendanceTracker/commit/828e9d5d2a998523a5cbd8f114c779edca2b7a03)
 
 # Project Idea
 
