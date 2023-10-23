@@ -9,8 +9,9 @@
 - [Report Requirements](Notes/Report_Requirements.md)
 - [Attendy: Navigation](Notes/AttendyV2.md)
 - [Attendy: Navigation - ChangeLog](Notes/AttendyV2.md#changelog)
-- [Attendy: Rebuild - Source Code](https://github.com/DaleHuntGB/Attendy_Rebuild)
+- [Attendy: Navigation Website](https://attendyattendance.netlify.app/)
 - [Research](Notes/Research.md)
+- [Attendy Presentation](https://unibrightonac-my.sharepoint.com/:p:/g/personal/d_hunt4_uni_brighton_ac_uk/ES74JG1HZ2lComBbZ03chb0B-907Rv4i4VEHG8TL54G4Hw?e=KK5OoP)
 
 ## Notes
 
